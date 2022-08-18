@@ -1,0 +1,2 @@
+# HookInject
+This program was written for a university project. It monitors function calls in a process. For this, the Hook &amp; Inject technique is used, which consists in forcing the target process to load the specified DLL, which, in turn, changes tables with DLL functions, intercepting them. When using this technique, it is possible to monitor the call of specified functions, and it is also possible to replace the values ​​of the result of the function, changing the behavior of the target process.
