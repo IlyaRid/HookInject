@@ -1,0 +1,7 @@
+﻿  Создание кода
+  0 of 226 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+Hook_x86.obj : error LNK2026: небезопасный модуль для образа SAFESEH.
+C:\Users\Софья\Desktop\HookInject\Release\Hook.dll : fatal error LNK1281: Не удается создать образ SAFESEH.

@@ -1,0 +1,6 @@
+﻿  Assembling Hook_x86.asm...
+  pch.cpp
+  dllmain.cpp
+C:\Users\Софья\Desktop\HookInject\Hook\dllmain.cpp(13,33): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\Софья\Desktop\HookInject\Hook\dllmain.cpp(78,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Hook.vcxproj -> C:\Users\Софья\Desktop\HookInject\Debug\Hook.dll
