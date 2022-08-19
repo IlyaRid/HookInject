@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+C:\Users\Софья\Desktop\HookInject\Hook\dllmain.cpp(11,33): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\Софья\Desktop\HookInject\Hook\dllmain.cpp(38,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Софья\Desktop\HookInject\Hook\dllmain.cpp(278,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Софья\Desktop\HookInject\Hook\dllmain.cpp(315,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Hook.vcxproj -> C:\Users\Софья\Desktop\HookInject\x64\Debug\Hook.dll
